@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\bin\Debug\netcoreapp3.1\WeekWork12.exe
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\bin\Debug\netcoreapp3.1\WeekWork12.deps.json
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\bin\Debug\netcoreapp3.1\WeekWork12.runtimeconfig.json
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\bin\Debug\netcoreapp3.1\WeekWork12.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\bin\Debug\netcoreapp3.1\WeekWork12.dll
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\bin\Debug\netcoreapp3.1\WeekWork12.pdb
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.dll
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.pdb
+C:\Users\opilane\source\repos\WeekWork12\WeekWork12\obj\Debug\netcoreapp3.1\WeekWork12.genruntimeconfig.cache
